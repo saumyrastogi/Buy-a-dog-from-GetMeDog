@@ -1,0 +1,122 @@
+.container{
+ padding: 3% 15% ;
+}
+#title{
+  background-color: powderblue;
+  padding: 0 15% 1% 15%;
+  color: white;
+}
+h1{
+  font-family: "Raleway";
+  size:8rem;
+  line-height: 10;
+}
+h3{
+  font-family: "raleway";
+  color: orange;
+}SSSS
+h2{
+  font-family: "raleway";
+  padding: 5%;
+  margin: 10%;
+  line-height: 100;
+  font-size: 5rem;
+}
+.navbar-brand{
+  font-family: "Saira Semi Condensed";
+  font-size: 5rem;
+  font-weight: bold;
+}
+.Download-button{
+  margin: 30px;
+}
+.row{
+  padding-top: 5%;
+}
+.nav-item {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.iphone{
+  width: 60%;
+  transform: rotate(30deg);
+  position: relative;
+}
+#features{
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+}
+.new-box{
+  text-align: center;
+  padding: 5%;
+}
+.grey-text{
+  color: grey;
+}
+.brand-size{
+  font-size: 2.5rem;
+}
+.icon{
+  color: orange;
+  padding-bottom: 1rem;
+}
+.icon:hover{
+  color: orangered;
+}
+#testimonials{
+  text-align: center;
+  background-color: powderblue;
+  color: white;
+}
+.testimonialdiv{
+  position: relative;
+  bottom: 100px;
+}
+.dog{
+  border-radius: 100px;
+  width: 15%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#press{
+  text-align: center;
+  background-color: powderblue;
+  padding-bottom: 3%;
+}
+.press-img{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+@media(max-width:990px){
+  .iphone{
+    transform: rotate(360deg);
+  }
+  #title{
+    text-align: center;
+  }
+}
+#cta{
+  background-color: powderblue;
+  text-align: center;
+  padding: 7% 15%;
+}
+.foothead{
+  color: white;
+  font-size: 4rem;
+}
+#footer{
+  text-align: center;
+}
+.tw{
+   margin: 10px;
+}
+.footdiv{
+  padding: 5% 0 1% 0 ;
+}
